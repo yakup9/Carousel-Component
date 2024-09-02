@@ -1,0 +1,79 @@
+body {
+  padding-top: 54px;
+}
+
+
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.navbararkaplan {
+	
+	
+	 background: -webkit-linear-gradient(left, #274e6a 10%, #356486 90%);
+    background: linear-gradient(to right, #274e6a 10%, #356486 90%);
+	
+	
+}
+
+.navlink:link,.navlink:visited {
+	color:#fff;
+	margin-left:10px;
+	
+}
+.navlink:hover {
+	color:#d2d7da;
+	
+}
+
+.footerarkaplan {
+	
+	
+	background: -webkit-linear-gradient(left, #274e6a 10%, #356486 90%);
+    background: linear-gradient(to right, #274e6a 10%, #356486 90%);
+	
+	
+}
+.hetiketRenk {
+	color:#274e6a;	
+}
+.hizmetlericon {
+	color:#274e6a;		
+}
+.breadcrumbRenk {
+	background-color:#f9f9f9;
+
+}
+.breadcrumLink:link,.breadcrumLink:visited {
+	color:#274e6a;	
+}
+.breadcrumLink:hover {
+	text-decoration:none;
+	color:#5894bf;	
+}
+.iletformbtn {
+	color:#fff;
+
+	
+	background: -webkit-linear-gradient(left, #0d4267 0%, #1768a2 100%);
+    background: linear-gradient(to right, #0d4267 0%, #1768a2 100%);
+	
+	
+}
+.iletformbtn:hover {
+color:#e6e9e8;
+		
+	
+	
+}
+
